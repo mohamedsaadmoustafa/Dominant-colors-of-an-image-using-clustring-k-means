@@ -4,7 +4,7 @@ Simple Web App: Extract dominant colors of an image using clustring k-means
 
 ### UI
 ![alt text]( /visualization/Dominant_Colors_web.png )
-### Input Image
+### Input Image ([quora.com/profile/Ashish-Kulkarni-100](https://www.jrusselljinishiangallery.com/chris-blossom))
 ![alt text]( /visualization/input.jpg )
 ### Image with extracted (k=9) dominant colors with percentage length
 ![alt text]( /visualization/result-1.jpg )
