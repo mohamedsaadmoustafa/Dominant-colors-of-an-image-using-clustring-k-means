@@ -1,6 +1,6 @@
 # Dominant colors of an image using clustring k-means
 
-Simple Web App using Flask: Extract dominant colors of an image using clustring k-means
+Simple Web App using Flask: Extract dominant colors of an image using clustering k-means
 
 ### UI
 ![alt text]( /visualization/Dominant_Colors_web.png "UI")
