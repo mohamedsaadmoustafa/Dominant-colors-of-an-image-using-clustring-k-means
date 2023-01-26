@@ -2,6 +2,10 @@
 
 Simple Web App using Flask: Extract dominant colors of an image using clustering k-means
 
+## Deployed Wep App: 
+
+[![colors web app](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](colors-s8qk.onrender.com//)
+
 ### UI
 ![alt text]( /visualization/Dominant_Colors_web.png "UI")
 
