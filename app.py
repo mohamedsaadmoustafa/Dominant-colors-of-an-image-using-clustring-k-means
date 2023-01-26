@@ -1,9 +1,3 @@
-# pip freeze > requirements.txt
-# pip install -r requirements.txt
-# python -m flask run
-# waitress-serve --host 127.0.0.1 app:app
-# python run app.py
-
 from flask import Flask, flash, request, redirect, render_template
 from werkzeug.utils import secure_filename
 from model import *
@@ -51,9 +45,3 @@ def upload_file():
         else:
             flash('Allowed file types are Images')
             return redirect(request.url)
-
-
-if __name__ == "__main__":
-	from waitress import serve
-	serve(app, host="0.0.0.0", port=8080)
-	#app.run()
